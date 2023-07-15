@@ -1,3 +1,2 @@
 [build]
-command = "npm start"  # Replace with your build command, if required
 publish = "api"           # Path to your API directory
